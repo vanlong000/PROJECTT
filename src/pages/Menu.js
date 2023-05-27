@@ -21,7 +21,7 @@ function Menu (props){
                             </div>  */}
                             <div className=" menu-left-1">
                             <em> 
-                            <h2 className="combo">THỰC ĐƠN sssssNHÀ HÀxxxxxxxxxxxxxxxxxxxxxxxxxNG</h2>
+                            <h2 className="combo">THỰC ĐƠN sssssNHÀ HÀxxxxxxssssssssssssssssssssssssssxxxxxxxxxxxxxxxxxxxNG</h2>
                             </em>
                                     
                                     
